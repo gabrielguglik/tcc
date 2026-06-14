@@ -19,5 +19,6 @@ Visando um maior controle sob as variáveis e respostas, as requisições foram 
 
 ## 👨‍💻 Autor
 
-* **Gabriel Guglielmi Kirtschig** ---
+* **Gabriel Guglielmi Kirtschig**
+
 *Nota: Este repositório tem fins estritamente acadêmicos, atuando como apêndice digital para garantir a transparência e a reprodutibilidade da pesquisa.*
