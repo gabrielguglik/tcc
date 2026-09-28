@@ -1,6 +1,6 @@
 # Um Estudo Comparativo sobre o Uso de LLMs na Criação de Testes de Integração de Software
 
-Este repositório contém os conjuntos de dados (brutos e tratados) utilizados como base empírica para o Trabalho de Conclusão de Curso (TCC) no curso de Sistemas de Informação. O estudo avalia e compara o desempenho de diferentes *Large Language Models* (LLMs) no contexto de qualidade de software.
+Trabalho disponível em: https://repositorio.ufsc.br/handle/123456789/274357. Este repositório contém os conjuntos de dados (brutos e tratados) utilizados como base empírica para o Trabalho de Conclusão de Curso (TCC) no curso de Sistemas de Informação. O estudo avalia e compara o desempenho de diferentes *Large Language Models* (LLMs) no contexto de qualidade de software.
 
 ## 📂 Estrutura dos Arquivos
 
